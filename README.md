@@ -86,3 +86,18 @@ This is an independent portfolio project using synthetic data. All figures and f
 
 **Dhruv**
 Aspiring Data Analyst | SQL | Power BI | Python | Excel
+---
+
+## Dashboard Preview
+
+### 1. Workforce Overview
+![Workforce Overview](Dashboard_Screenshots/01_Workforce_Overview.png)
+
+### 2. Attendance & Operations
+![Attendance & Operations](Dashboard_Screenshots/02_Attendance_Operations.png)
+
+### 3. Procurement & Supplier Analytics
+![Procurement Analytics](Dashboard_Screenshots/03_Procurement_Analytics.png)
+
+### 4. Executive Overview
+![Executive Overview](Dashboard_Screenshots/04_Executive_Overview.png)
