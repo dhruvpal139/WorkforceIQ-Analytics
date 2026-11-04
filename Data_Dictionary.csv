@@ -1,0 +1,13 @@
+Table,Column,Definition
+Employees,EmployeeID,Unique fictional employee identifier
+Employees,ExitDate,Blank for employees still active at end of 2025
+Employees,Attrition,Yes if recorded as having left by 2025-12-31; not an annual attrition rate
+Employees,OverTimePreference,Simulated overtime assignment tendency; not a validated survey measure
+Employees,JobSatisfactionScore,Synthetic ordinal score from 1 (low) to 4 (high)
+Monthly_Attendance,Month,Month in YYYY-MM
+Monthly_Attendance,AttendancePct,PresentDays / ScheduledWorkingDays x 100
+Monthly_Operations,UnitsProcessed,"Simulated operational workload indicator, not standardized across departments"
+Monthly_Operations,QualityOrHandlingExceptions,"Synthetic exceptions, may mean different events by team"
+Purchase_Orders,BuyerEmployeeID,EmployeeID key linking PO to purchase employee
+Purchase_Orders,OrderValueINR,Synthetic purchase amount; not genuine company spending
+Purchase_Orders,DeliveryStatus,On Time or Delayed based on synthetic lead-time variance
